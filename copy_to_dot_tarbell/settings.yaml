@@ -1,0 +1,7 @@
+google_account: davideads@gmail.com
+project_templates:
+- name: Basic Bootstrap 3 template
+  url: https://github.com/newsapps/tarbell-template
+- name: Searchable map template
+  url: https://github.com/eads/tarbell-map-template
+projects_path: /Users/davideads/tarbell
